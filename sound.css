@@ -49,27 +49,27 @@ h1 {
 }
 
 .color1 {
-	background-color: red;
+	background-color: #5B4DB7;
 }
 
 .color2 {
-	background-color: purple; 
+	background-color: #42ADC7; 
 }
 
 .color3 {
-	background-color: indigo; 
+	background-color: #81D152; 
 }
 
 .color4 {
-	background-color: yellow; 
+	background-color: #F5F263; 
 }
 
 .color5 {
-	background-color: black; 
+	background-color: #FF9D4F; 
 }
 
 .color6 {
-	background-color: #d2691e; 
+	background-color: #FF5347; 
 }
 
 @keyframes jump {

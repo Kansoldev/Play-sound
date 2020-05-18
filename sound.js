@@ -2,7 +2,7 @@ window.addEventListener("load", () => {
 	const sounds = document.querySelectorAll(".sound");
 	const colors = document.querySelectorAll(".colors div");
 	const visual = document.querySelector(".colorful-elements");
-	const visualColors = ["red", "purple", "indigo", "yellow", "black", "#d2691e"];
+	const visualColors = ["#5B4DB7", "#42ADC7", "#81D152", "#F5F263", "#FF9D4F", "#FF5347"];
 
 	// Looping through each color
 	colors.forEach((color, i) => {
